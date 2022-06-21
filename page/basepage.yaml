@@ -1,0 +1,4 @@
+goto_xueqiu:
+  - action: find_and_click
+    locator: xpath
+    value: //*[@text="雪球"]
